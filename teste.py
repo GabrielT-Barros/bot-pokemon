@@ -26,7 +26,7 @@ logger = logging.getLogger("pokebot")
 # =========================
 PIKACHU_GIF_URL = "https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif"
 POKEMON_API_URL = "https://api.pokemontcg.io/v2/cards"
-TELEGRAM_BOT_TOKEN = "7572354652:AAEg_EgwLhq55dHNBmiuH4G-iCIxpjb346A"
+TELEGRAM_BOT_TOKEN = "7977013027:AAFejTobc_HJj1PhhC7dwSqwG5si2Pm46t0"
 
 # =========================
 # Rate Limit por usuário
